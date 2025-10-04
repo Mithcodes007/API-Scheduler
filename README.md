@@ -16,6 +16,7 @@ Logs every run, skip, and error with timestamps
 Simple CLI interface
 
 **⚙️ Usage**
+
 Run the script
 python api_scheduler.py "12:00:05,12:00:10,12:00:15"
 
@@ -40,6 +41,7 @@ Sends API requests (or simulates in dry-run)
 Logs results to the console and file
 
 **📁 Project Structure**
+
 ├── api_scheduler.py   # Main script
 ├── requirements.txt   # Dependencies (if any)
 └── README.md          # Project documentation
