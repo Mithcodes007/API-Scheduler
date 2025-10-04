@@ -43,5 +43,7 @@ Logs results to the console and file
 **📁 Project Structure**
 
 ├── api_scheduler.py   # Main script
+
 ├── requirements.txt   # Dependencies (if any)
+
 └── README.md          # Project documentation
